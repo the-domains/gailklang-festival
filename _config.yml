@@ -6,9 +6,11 @@ color:
   saturation: 0.3626137573737651
   rhythmicContrast: 0.992905133171007
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: Gailklang Festival
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a670a43-564e-47bb-bae7-bb19780fac08.svg
